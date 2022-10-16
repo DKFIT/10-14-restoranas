@@ -1,0 +1,44 @@
+body{
+    background-color: hwb(270 92% 5%);
+}
+.container-fluid {
+    height: 100vh;
+   
+}
+header{
+    background-image: url(/img/macaroons-g4a2c13745_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: auto;
+
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-weight: 900;
+
+}
+h2,h3,h4,h5{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-weight: 900;
+    font-size: 18px;
+
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+footer{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+nu{
+    width: 100%;
+    height: auto;
+}
